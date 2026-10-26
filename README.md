@@ -3,8 +3,8 @@
 # DAFTAR ANGGOTA KELOMPOK
 
 ## Informasi Kelompok
-- Mata Kuliah: Sistem Aplikasi Berorientasi Objek
-- Nama Kelompok: Kelompok 1
+- Mata Kuliah: Sistem Aplikasi web
+- Nama Kelompok: Kelompok alvian
 
 ## Daftar Anggota
 
